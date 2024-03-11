@@ -10,14 +10,6 @@
 
 <h2>Images of Data Analyst Power Bi:</h2>
 
-| | |
-|:-------------------------:|:-------------------------:|
-|<img height="400 px" src="https://github.com/JAM5BOCsAdi/Data_Analyst_Tableau/assets/90914431/987e8089-a45a-492d-8aab-ae729ed1bdd5"> | <img height="400 px" src="https://github.com/JAM5BOCsAdi/Data_Analyst_Tableau/assets/90914431/b149384c-d20c-474f-bcf2-6e45699298df"> |
-|<img height="400 px" src=""> | <img height="400 px" src=""> |
-|<img height="400 px" src=""> | <img height="400 px" src=""> |
-
-
-
 <!--
 <p>This is the Tableau Public Profile, where you can see all the projects, that i am doing or did before:</p>
 
