@@ -1,6 +1,6 @@
 <h1>Data Analyst Power Bi</h1>
 
-<h2>Links for other Data Analyst Projects:</h2>
+<h2>Links for other Data Analyst Project(s):</h2>
 
 <p>Data Analyst Projects: <a href="https://github.com/JAM5BOCsAdi/Data_Analyst_Projects">Click here</a></p>
 <p>Data Analyst Python: <a href="https://github.com/JAM5BOCsAdi/Data_Analyst_Python">Click here</a></p>
@@ -23,16 +23,16 @@
 
 -->
 
-| | |
-|:-------------------------:|:-------------------------:|
-|<img height="400 px" src="https://github.com/JAM5BOCsAdi/Data_Analyst_Power_Bi/assets/90914431/ac952cd6-688a-48ed-987b-88cd3a5d9dd9"> | <img height="400 px" src="https://github.com/JAM5BOCsAdi/Data_Analyst_Power_Bi/assets/90914431/60063cb5-5bde-4ca1-b265-6bf2e8638890"> |
-|<img height="400 px" src=""> | <img height="400 px" src=""> |
-|<img height="400 px" src=""> | <img height="400 px" src=""> |
+|                                                                                                                                       |                                                                                                                                       |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| <img height="400 px" src="https://github.com/JAM5BOCsAdi/Data_Analyst_Power_Bi/assets/90914431/ac952cd6-688a-48ed-987b-88cd3a5d9dd9"> | <img height="400 px" src="https://github.com/JAM5BOCsAdi/Data_Analyst_Power_Bi/assets/90914431/60063cb5-5bde-4ca1-b265-6bf2e8638890"> |
+|                                                     <img height="400 px" src="">                                                      |                                                     <img height="400 px" src="">                                                      |
+|                                                     <img height="400 px" src="">                                                      |                                                     <img height="400 px" src="">                                                      |
 
 <!--
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | 
+|<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> |
 |<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> |
 |<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> |
 -->
@@ -44,4 +44,3 @@
 |<img height="400 px" src=""> | <img height="400 px" src=""> |
 |<img height="400 px" src=""> | <img height="400 px" src=""> |
 -->
-
